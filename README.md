@@ -70,10 +70,14 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-## Personal details and Contact
+## Contact
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
+| :---         |     :---:      | 
+| **Name**   | Allan. V | 
+| **E-mail**   | [albertoogy@gmail.com](mailto:albertoogy@gmail.com) | 
+| **LinkedIn**   | [Visit page](https://www.linkedin.com/in/allan-victor-6919b4152/) | 
+| **Name**   | Allan. V     | 
+| **Name**   | Allan. V     | 
+| **Name**   | Allan. V     | 
+| **Name**   | Allan. V     | 
+| **Name**   | Allan. V     | 
