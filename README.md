@@ -7,8 +7,8 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 
 ## Education
 - **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)								       		
-- **M.Sc.**, Physics	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
-- **B.Sc.**, Physics | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
+- **M.Sc.**, Genetics and Plant Breeding	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
+- **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
 
 ## Research Experience
 **Research scholar @ ICRISAT (_2018 - 2020_)**
@@ -16,11 +16,12 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - Single plant genotyping of accessions using [DArTSeq](https://www.diversityarrays.com/) based SNPs.
 - Genomic data analysis and development of statistical models for estimating optimum sample sizes.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_Decembe 2020 - Present_)**
+## Work experience 
+**Data Science Consultant @ fiverr (_Decembe 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
+## R Packages
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
