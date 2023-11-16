@@ -1,11 +1,13 @@
-# Data Scientist
+# Plant Breeder, Data analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Summary: Ph.D. graduate in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, and Artificial Intelligence for plant breeding. 
+
+#### Soft Technical Skills: R, Shiny, Python, Google colab
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Genetics and Plant Breeding | TamilNadu Agricultural University, Coimbatore, TamilNadu, India(...)								       		
+- M.S., Physics	| TamilNadu Agricultural University, Coimbatore, TamilNadu, India (_December 2020_)	 			        		
+- B.S., Physics | College of Agricultural Technology, Theni, India (_July 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
