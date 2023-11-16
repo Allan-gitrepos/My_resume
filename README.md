@@ -11,20 +11,21 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
 
 ## Research Experience
-**Ph.D. reseach @TNAU (_2021 - 2023_)**
+**Ph.D. reseach @[TNAU](https://tnau.ac.in/) (_2021 - 2023_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly **generate somaclonal variants of rice** with improved **salinity stress tolerance**.
 - Identified and validated **novel genomic regions (QTLs) governing salinity tolerance** through molecular mapping in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
 - Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
 
-**Research scholar @ ICRISAT (_2018 - 2020_)**
+**Research scholar @ [ICRISAT](https://www.icrisat.org/) (_2018 - 2020_)**
 - Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea) to examine intra and inter accession genetic diversity. 
 - Single plant genotyping of accessions using [DArTSeq](https://www.diversityarrays.com/) based SNPs.
 - Genomic data analysis and development of statistical models for estimating optimum sample sizes.
 
 ## Work experience 
-**Data Science Consultant @ fiverr (_Decembe 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Consultant @ [fiverr](https://www.fiverr.com/s/KzDd5k) (_Decembe 2020 - Present_)**
+- **5-star rated** expert in R data analysis and visualization with over six years of experience specializing in genomic data analysis and bioinformatics.
+- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
+- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the [profile](https://www.fiverr.com/s/KzDd5k). 
 
 ## Programming and data analysis skills
 
