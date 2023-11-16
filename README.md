@@ -13,7 +13,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 ## Research Experience
 **Ph.D. reseach @TNAU (_2021 - 2023_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate somaclonal variants of rice with improved salinity stress tolerance.
-- Identified and validated novel genomic regions (QTLs) governing salinity tolerance through molecular mapping in rice F2 populations along with thorough phenotypic and biochemical characterization.
+- Identified and validated novel genomic regions (QTLs) governing salinity tolerance through molecular mapping in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
 - Employed multi-omics approaches including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
 
 **Research scholar @ ICRISAT (_2018 - 2020_)**
