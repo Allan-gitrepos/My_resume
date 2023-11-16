@@ -72,7 +72,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Contact
 
-| :---         |     :---:      | 
 | **Name**   | Allan. V | 
 | **E-mail**   | [albertoogy@gmail.com](mailto:albertoogy@gmail.com) | 
 | **LinkedIn**   | [Visit page](https://www.linkedin.com/in/allan-victor-6919b4152/) | 
