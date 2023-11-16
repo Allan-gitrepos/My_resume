@@ -1,6 +1,7 @@
 # Plant Breeder, Data analyst
 
-#### Summary: Ph.D. graduate in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, and Artificial Intelligence for plant breeding. 
+#### Summary: 
+Ph.D. graduate in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, and Artificial Intelligence for plant breeding. 
 
 #### Soft Technical Skills: R, Shiny, Python, Google colab
 
