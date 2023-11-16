@@ -1,21 +1,22 @@
 # Plant Breeder, Data analyst
 
 #### Summary: 
-Ph.D. graduate in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, and Artificial Intelligence for plant breeding. 
+Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, and Artificial Intelligence for plant breeding. 
 
 #### Soft Technical Skills: R, Shiny, Python, Google colab
 
 ## Education
-- Ph.D., Genetics and Plant Breeding | TamilNadu Agricultural University, Coimbatore, TamilNadu, India(...)								       		
-- M.S., Physics	| TamilNadu Agricultural University, Coimbatore, TamilNadu, India (_December 2020_)	 			        		
-- B.S., Physics | College of Agricultural Technology, Theni, India (_July 2017_)
+- **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)								       		
+- **M.Sc.**, Physics	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
+- **B.Sc.**, Physics | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Research Experience
+**Research scholar @ ICRISAT (_2018 - 2020_)**
+- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea) to examine intra and inter accession genetic diversity. 
+- Single plant genotyping of accessions using [DArTSeq](https://www.diversityarrays.com/) based SNPs.
+- Genomic data analysis and development of statistical models for estimating optimum sample sizes.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_Decembe 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
