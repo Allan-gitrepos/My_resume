@@ -60,7 +60,7 @@ Used R....
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
 ## Workshop and Conferences
-- Attended the workshop on "[**A15 DArTSeq data analysis**](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
+- Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
 - Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032)  at NIPGR, New Delhi.
 - Attended the workshop on **HPLC:"Princliples and Applications in Plant Metabolomics**" at TNAU,Coimbaotore.
 - Attended the workshop on **Molecular modelling and Docking** at TNAU, Coimbatore.
