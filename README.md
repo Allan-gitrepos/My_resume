@@ -5,9 +5,9 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 
 #### Technical Skills
 
-- Programming Languages: Proficient in R, Python; experience with Shiny, Google Colab
-- Phenomics and Genomics: Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data
-- Data Science: Multivariate analysis, machine learning, visualization for large-scale datasets
+- Programming Languages: <ins>Proficient in R, Python; experience with Shiny, Google Colab.</ins>
+- Phenomics and Genomics: <ins>Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data.</ins>
+- Data Science: <ins>Multivariate analysis, machine learning, large scale genomic data analysis and visualization.</ins>
   
 ## Education
 - **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)		  		
