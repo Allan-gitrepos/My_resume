@@ -28,8 +28,16 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the [profile](https://www.fiverr.com/s/KzDd5k). 
 
 ## Programming and data analysis skills
-
-write about the skills you have
+- Proficient in full stack development of R packages using modular coding practices
+- Created production-grade Shiny web applications for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment
+- Machine learning model building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm) 
+- Multivariate data analysis of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools
+- Advanced visualization for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms
+**Additional Skills:**
+- Git/GitHub for version control and collaborative coding 
+- High performance computing on clusters for scalable data analysis
+- Bioconductor for analyzing genomic/transcriptomic experiments
+- Workflow automation to enhance reproducibility and to faster workflow. 
 
 ## R Packages developed
 ### Data-Driven EEG Band Discovery with Decision Trees
