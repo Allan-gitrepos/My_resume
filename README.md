@@ -3,8 +3,12 @@
 #### Summary: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 
-#### Soft Technical Skills: R, Shiny, Python, Google colab
+#### Technical Skills
 
+- Programming Languages: Proficient in R, Python; experience with Shiny, Google Colab
+- Phenomics and Genomics: Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, esigning field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data
+- Data Science: Multivariate analysis, machine learning, visualization for large-scale datasets
+  
 ## Education
 - **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)		  		
 - **M.Sc.**, Genetics and Plant Breeding	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
@@ -56,16 +60,14 @@ Used R....
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
 ## Workshop and Conferences
-- Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" from 26th to 31st Aug 2019 at [CIMMYT](https://www.cimmyt.org/), Mexico
-- Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032) at 2, Aug 2019 at NIPGR, New Delhi.
-- 
+- Attended the workshop on "[**A15 DArTSeq data analysis**](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
+- Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032)  at NIPGR, New Delhi.
+- Attended the workshop on **HPLC:"Princliples and Applications in Plant Metabolomics**" at TNAU,Coimbaotore.
+- Attended the workshop on **Molecular modelling and Docking** at TNAU, Coimbatore.
+- Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
 
-
-
-## Talks & Lectures
-- Seminars and Lectures
-
-- [Medium articles](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Articles & Blogs
+- [Medium articles](https://medium.com/)
 
 ## Publications
 1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: [https://doi.org/10.3389/fpls.2020.587426](https://doi.org/10.3389/fpls.2020.587426))
