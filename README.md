@@ -33,7 +33,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - Machine learning model building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm) 
 - Multivariate data analysis of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools
 - Advanced visualization for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms
-- 
+
 **Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding 
@@ -53,9 +53,7 @@ Developed Using R....
 Used R....
 
 ### PBPerfect
-[Shiny page](https://allanbiotools.shinyapps.io/pbperfect/)
-
-**PBPerfect** is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
+**PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
 ## Intenship and Conferences
 - 
