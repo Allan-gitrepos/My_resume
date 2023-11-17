@@ -55,8 +55,13 @@ Used R....
 ### PBPerfect
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
-## Intenship and Conferences
+## Workshop and Conferences
+- Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" from 26th to 31st Aug 2019 at [CIMMYT](https://www.cimmyt.org/), Mexico
+- Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032) at 2, Aug 2019 at NIPGR, New Delhi.
 - 
+
+
+
 ## Talks & Lectures
 - Seminars and Lectures
 
@@ -67,11 +72,12 @@ Used R....
 2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: [https://allanbiotools.shinyapps.io/pbperfect/](https://allanbiotools.shinyapps.io/pbperfect/).
 3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: [https://doi.org/10.3389/fpls.2021.692463](https://doi.org/10.3389/fpls.2021.692463))
 4. Vetriventhan, Mani, Hari D. Upadhyaya, Vania CR Azevedo, Allan Victor, and Seetha Anitha. **"Variability and trait‐specific accessions for grain yield and nutritional traits in germplasm of little millet (_Panicum sumatrense_ Roth. Ex. Roem. & Schult.)."** _Crop Science_ 61, no. 4 (2021): 2658-2679. (DOI: [https://doi.org/10.1002/csc2.20527](https://doi.org/10.1002/csc2.20527))
-5. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: [https://doi.org/10.3390/su15065520](https://doi.org/10.3390/su15065520))
-6. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: [https://doi.org/10.1007/s42729-023-01129-2](https://doi.org/10.1007/s42729-023-01129-2))
-7. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: [10.37992/2023.1403.099](https://ejplantbreeding.org/index.php/EJPB/article/view/4804))
-8. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: [https://doi.org/10.37992/2020.1103.125](https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575))
-9. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: [https://doi.org/10.1016/j.apsoil.2023.105176](https://doi.org/10.1016/j.apsoil.2023.105176)).
+5. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: [https://doi.org/10.1016/j.apsoil.2023.105176](https://doi.org/10.1016/j.apsoil.2023.105176)).
+6. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: [https://doi.org/10.3390/su15065520](https://doi.org/10.3390/su15065520))
+7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: [https://doi.org/10.1007/s42729-023-01129-2](https://doi.org/10.1007/s42729-023-01129-2))
+8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: [10.37992/2023.1403.099](https://ejplantbreeding.org/index.php/EJPB/article/view/4804))
+9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: [https://doi.org/10.37992/2020.1103.125](https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575))
+
 
 ## Contact
 
