@@ -11,7 +11,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
 
 ## Research Experience
-**Ph.D. reseach @[TNAU](https://tnau.ac.in/) (_2021 - 2023_)**
+**Ph.D. research @[TNAU](https://tnau.ac.in/) (_2021 - 2023_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly <ins>generate **somaclonal variants of rice**</ins> with improved <ins>salinity stress tolerance</ins>.
 - Identified and validated <ins>novel genomic regions **(QTLs)** governing salinity tolerance</ins> through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
 - Employed <ins>**multi-omics approaches**</ins> including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
