@@ -33,7 +33,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 
 ## Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
-- Created production-grade **Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
+- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
