@@ -2,7 +2,6 @@
 
 #### Summary: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
-Here are some suggestions to improve your resume:
 
 #### Technical Skills
 
@@ -57,7 +56,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 
 ## 🎤 Workshop and Conferences
 - Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
-- Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032)  at NIPGR, New Delhi.
+- Attended the international conference on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032) at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
 - Attended the workshop on **HPLC:"Princliples and Applications in Plant Metabolomics**" at TNAU,Coimbaotore.
 - Attended the workshop on **Molecular modelling and Docking** at TNAU, Coimbatore.
 - Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
