@@ -4,7 +4,7 @@
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 Here are some suggestions to improve your resume:
 
-#### ⚙️ Technical Skills
+#### Technical Skills
 
 - Programming Languages: _Proficient in R, Python; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data._
@@ -39,7 +39,7 @@ Here are some suggestions to improve your resume:
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
-** 🏆 Additional Skills:**
+**Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
 - High performance computing on clusters for scalable data analysis.
@@ -65,7 +65,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 ## ✍️ Articles & Blogs
 - [Medium articles](https://medium.com/@victorallan)
 
-## Publications
+## 📜 Publications
 1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: [https://doi.org/10.3389/fpls.2020.587426](https://doi.org/10.3389/fpls.2020.587426))
 2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: [https://allanbiotools.shinyapps.io/pbperfect/](https://allanbiotools.shinyapps.io/pbperfect/).
 3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: [https://doi.org/10.3389/fpls.2021.692463](https://doi.org/10.3389/fpls.2021.692463))
