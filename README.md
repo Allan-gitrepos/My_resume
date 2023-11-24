@@ -47,14 +47,11 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 
 ## R Packages developed
 ### PBPheno
-[CRAN](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed Using R....
 
 ### PBGeno
-[CRAN](https://www.mdpi.com/1424-8220/22/11/4240)
+[Github](https://github.com/Allan-gitrepos/pbgeno)
 
-Used R....
+Developed pbgeno, an R package to streamline data analysis workflows for plant breeders. The package provides functions for calculating genetic distances, clustering genotypes, estimating diversity statistics, creating publication-quality visualizations, and automating routine tasks. Key features include calculating genetic distance matrices, structure-based clustering, polymorphism quantification, and converting proprietary marker genotypes into standardized formats for genome-wide association mapping. 
 
 ### PBPerfect
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
