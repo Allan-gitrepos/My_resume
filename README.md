@@ -77,7 +77,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: [https://doi.org/10.37992/2020.1103.125](https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575))
 
 
-##📞 Contact
+## 📞 Contact
 
 | **Name**   | Allan. V | 
 | **E-mail**   | [albertoogy@gmail.com](mailto:albertoogy@gmail.com) | 
