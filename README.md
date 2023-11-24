@@ -2,6 +2,18 @@
 
 #### Summary: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+Here are some suggestions to improve your resume:
+
+Icons
+- To add icons, you can use Unicode symbols or emoji before your headings. For example:
+
+✅ **Programming and data analysis skills**
+
+🌱 **R Packages developed**
+
+Some commonly used icons:
+
+✅ ⭐ 📈 🧠 🎓 🏢 💼 💻 📊
 
 #### Technical Skills
 
