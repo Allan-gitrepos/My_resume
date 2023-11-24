@@ -64,7 +64,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 - Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
 
 ## Articles & Blogs
-- [Medium articles](https://medium.com/)
+- [Medium articles](https://medium.com/@victorallan)
 
 ## Publications
 1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: [https://doi.org/10.3389/fpls.2020.587426](https://doi.org/10.3389/fpls.2020.587426))
