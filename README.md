@@ -4,29 +4,18 @@
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 Here are some suggestions to improve your resume:
 
-Icons
-- To add icons, you can use Unicode symbols or emoji before your headings. For example:
-
-✅ **Programming and data analysis skills**
-
-🌱 **R Packages developed**
-
-Some commonly used icons:
-
-✅ ⭐ 📈 🧠 🎓 🏢 💼 💻 📊
-
-#### Technical Skills
+#### ⚙️ Technical Skills
 
 - Programming Languages: _Proficient in R, Python; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data._
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
-## Education
+## 🎓 Education
 - **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)		  		
 - **M.Sc.**, Genetics and Plant Breeding	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
 - **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
 
-## Research Experience
+## 🔬 Research Experience
 **Ph.D. research @[TNAU](https://tnau.ac.in/) (_2021 - 2023_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
 - Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
@@ -37,43 +26,43 @@ Some commonly used icons:
 - Single plant genotyping of accessions using **[DArTSeq](https://www.diversityarrays.com/) based SNPs**.
 - Genomic data analysis and development of statistical models for estimating optimum sample sizes.
 
-## Work experience 
+## 💼 Work experience 
 **Data Science Consultant @ [fiverr](https://www.fiverr.com/s/KzDd5k) (_Decembe 2020 - Present_)**
 - **5-star rated** expert in R data analysis and visualization with over six years of experience specializing in genomic data analysis and bioinformatics.
 - Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
 - Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the [profile](https://www.fiverr.com/s/KzDd5k). 
 
-## Programming and data analysis skills
+## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
 - Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
-**Additional Skills:**
+** 🏆 Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
 - High performance computing on clusters for scalable data analysis.
 - Bioconductor for analyzing genomic/transcriptomic experiments.
 - Workflow automation to enhance reproducibility and to faster workflow. 
 
-## R Packages developed
-### PBGeno
+## 🌱 R Packages developed
+### ✅ PBGeno
 [Github](https://github.com/Allan-gitrepos/pbgeno)
 
 Developed pbgeno, an R package to streamline data analysis workflows for plant breeders. The package provides functions for calculating genetic distances, clustering genotypes, estimating diversity statistics, creating publication-quality visualizations, and automating routine tasks. Key features include calculating genetic distance matrices, structure-based clustering, polymorphism quantification, and converting proprietary marker genotypes into standardized formats for genome-wide association mapping. 
 
-### PBPerfect
+### ✅ PBPerfect
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
-## Workshop and Conferences
+## 🎤 Workshop and Conferences
 - Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
 - Attended conference (Tavel award) on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032)  at NIPGR, New Delhi.
 - Attended the workshop on **HPLC:"Princliples and Applications in Plant Metabolomics**" at TNAU,Coimbaotore.
 - Attended the workshop on **Molecular modelling and Docking** at TNAU, Coimbatore.
 - Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
 
-## Articles & Blogs
+## ✍️ Articles & Blogs
 - [Medium articles](https://medium.com/@victorallan)
 
 ## Publications
@@ -88,7 +77,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: [https://doi.org/10.37992/2020.1103.125](https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575))
 
 
-## Contact
+##📞 Contact
 
 | **Name**   | Allan. V | 
 | **E-mail**   | [albertoogy@gmail.com](mailto:albertoogy@gmail.com) | 
