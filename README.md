@@ -46,8 +46,6 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 - Workflow automation to enhance reproducibility and to faster workflow. 
 
 ## R Packages developed
-### PBPheno
-
 ### PBGeno
 [Github](https://github.com/Allan-gitrepos/pbgeno)
 
