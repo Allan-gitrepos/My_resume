@@ -7,7 +7,7 @@ Cumulative Impact Factor: **34.171**
 
 Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en)
 
-#### Technical Skills
+#### Technical Skills:
 
 - Programming Languages: _Proficient in R, Python; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data._
