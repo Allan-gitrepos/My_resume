@@ -1,7 +1,16 @@
-title: ALLAN. V
-logo: 1.png
-description: Data science and AI in agriculture-Where bytes and botany blend for a better world.
-show_downloads: ture
-theme: jekyll-theme-minimal
+title: Allan V.  # Add a space after the period
 
+logo: 1.png # Use a relative path to logo image 
 
+description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
+
+email: albertoogy@gmail.com # Allow visitors to contact you
