@@ -3,6 +3,10 @@
 #### Summary: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 
+Cumulative Impact Factor: **34.171**
+
+Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en)
+
 #### Technical Skills
 
 - Programming Languages: _Proficient in R, Python; experience with Shiny, Google Colab._
@@ -27,7 +31,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 
 ## 💼 Work experience 
 **Data Science Consultant @ [fiverr](https://www.fiverr.com/s/KzDd5k) (_Decembe 2020 - Present_)**
-- **5-star rated** expert in R data analysis and visualization with over six years of experience specializing in genomic data analysis and bioinformatics.
+- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
 - Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
 - Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the [profile](https://www.fiverr.com/s/KzDd5k). 
 
@@ -65,6 +69,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 - [Medium articles](https://medium.com/@victorallan)
 
 ## 📜 Publications
+
 1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: [https://doi.org/10.3389/fpls.2020.587426](https://doi.org/10.3389/fpls.2020.587426))
 2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: [https://allanbiotools.shinyapps.io/pbperfect/](https://allanbiotools.shinyapps.io/pbperfect/).
 3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: [https://doi.org/10.3389/fpls.2021.692463](https://doi.org/10.3389/fpls.2021.692463))
