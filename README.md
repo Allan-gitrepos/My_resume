@@ -2,7 +2,7 @@
 
 #### Summary: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
-
+##### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
 Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en)
