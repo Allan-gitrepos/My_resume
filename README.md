@@ -86,7 +86,7 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 
  Here is a draft GitHub readme for the PBHaploMineR package:
 
-### PBHaploMineR 🧬
+### ✅ PBHaploMineR 🧬
 
 **PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
 
