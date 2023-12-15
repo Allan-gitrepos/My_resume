@@ -1,7 +1,7 @@
 # Plant Breeder & Data analyst
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, and development of R packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
@@ -9,14 +9,14 @@ Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotype data._
+- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
 ## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_Thesis submitted on 31st October 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_December 2020_)	 			        		
-- **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_July 2017_)
+- **Ph.D.**, Genetics and Plant Breeding | [TamilNadu Agricultural University](https://tnau.ac.in/) (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
+- **M.Sc.**, Genetics and Plant Breeding	| [TamilNadu Agricultural University](https://tnau.ac.in/) (_AUG 2017 - DEC 2020_)	 			        		
+- **B.Sc.**, Agriculture | [College of Agricultural Technology](https://cattheni.edu.in/) (_JUL 2013 - JUL 2017_)
 
 ## 🔬 Research Experience
 **Ph.D. research @[TNAU](https://tnau.ac.in/) (_2021 - 2023_)**
@@ -25,9 +25,9 @@ Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?
 - Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
 
 **Research scholar @ [ICRISAT](https://www.icrisat.org/) (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea) to examine intra and inter accession genetic diversity. 
+- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
 - Single plant genotyping of accessions using **[DArTSeq](https://www.diversityarrays.com/) based SNPs**.
-- Genomic data analysis and development of statistical models for estimating optimum sample sizes.
+- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
 
 ## 💼 Work experience 
 **Data Science Consultant @ [fiverr](https://www.fiverr.com/s/KzDd5k) (_Decembe 2020 - Present_)**
@@ -40,6 +40,7 @@ Total Citations: **39** [(Google Scholar)](https://scholar.google.com/citations?
 - Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
+- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python. Understanding challenges with pipelining and integrating variant, gene and pathway associations from large-scale genomic projects.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
 **Additional Skills:**
@@ -85,11 +86,11 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 
  Here is a draft GitHub readme for the PBHaploMineR package:
 
-# 🧬 PBHaploMineR
+### PBHaploMineR 🧬
 
 PBHaploMineR provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
 
-## Key Features
+**Key Features:**
 * **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
 * **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
 * **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
