@@ -63,7 +63,7 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 
 ### ✅ PBlinkagemap
 
-**PBlinkagemap**<a href="https://allanbiotools1.shinyapps.io/PBLinkagemap/" target="_blank">Visit Page</a> enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
+**PBlinkagemap** <a href="https://allanbiotools1.shinyapps.io/PBLinkagemap/" target="_blank">(Visit Page)</a> enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
 
 It allows users to:
 - Import chromosome, marker, map distance and trait score data
@@ -73,7 +73,7 @@ By handling computationally intensive linkage analysis and mapping behind the sc
 
 ### ✅ PB-GWAS 🧬
 
-**PB-GWAS**<a href="https://allanbiotools1.shinyapps.io/PBgwas/" target="_blank">Visit Page</a> makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
+**PB-GWAS** <a href="https://allanbiotools1.shinyapps.io/PBgwas/" target="_blank">(Visit Page)</a> makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
 
 Key features:
 📥 File upload in 4 clicks  
@@ -88,7 +88,7 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 
 ### PBHaploMineR 🧬
 
-**PBHaploMineR**<a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">Visit Page</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
+**PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
 
 **Key Features:**
 * **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
