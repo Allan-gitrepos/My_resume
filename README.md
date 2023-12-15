@@ -58,6 +58,46 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 ### ✅ PBPerfect
 **PBPerfect** [(vist page)](https://allanbiotools.shinyapps.io/pbperfect/) is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
+ Here is a draft GitHub readme section for your PBlinkagemap package:
+
+### ✅ PBlinkagemap
+
+[PBlinkagemap](https://allanbiotools1.shinyapps.io/PBLinkagemap/) enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
+
+It allows users to:
+- Import chromosome, marker, map distance and trait score data
+- Interactively explore results on linkage maps
+- Visualize QTL locations and effects
+By handling computationally intensive linkage analysis and mapping behind the scenes, PBlinkagemap makes it simple for users to go from datasets to QTL discovery through an intuitive interface.
+
+### ✅ PB-GWAS 🧬
+
+[PB-GWAS](https://allanbiotools1.shinyapps.io/PBgwas/) makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
+
+Key features:
+📥 File upload in 4 clicks  
+🏃‍♂️ One-click GWAS launch  
+⚙️ Adjust parameters via sidebar   
+📈 Interactive result plotting  
+📄 Full PDF report downloading
+
+By eliminating coding barriers, PB-GWAS allows both new and advanced users to leverage GAPIT workflows with no programming expertise required!. Whether you want to map simple or complex traits, PB-GWAS provides the automated analysis to accelerate discoveries 🔬
+
+ Here is a draft GitHub readme for the PBHaploMineR package:
+
+# 🧬 PBHaploMineR
+
+PBHaploMineR provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
+
+## Key Features
+* **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
+* **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
+* **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
+* **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
+* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
+
+PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
+
 ## 🎤 Workshop and Conferences
 - Attended the workshop on "[A15 DArTSeq data analysis](https://twitter.com/GenebankICRISAT/status/1169137453472669696)" at [CIMMYT](https://www.cimmyt.org/), Mexico
 - Attended the international conference on [“Neglected and Underutilized crop species for Food, Nutrition, Energy and  Environment”](https://twitter.com/GenebankICRISAT/status/1158297753371308032) at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
