@@ -123,10 +123,19 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## References
 
+| **Name** | **Position** | **Organization** | **E-mail** | **LinkedIn** |
+|:---:|:---:|:---:|:---:|:---:|
+| Dr. Vania de Azevedo | Former Head, Plant Genetic Resources | ICRISAT, Hyderabad, India | azevedovcr@gmail.com | Visit Page |
+| Dr. Mani Vetriventhan | Senior Scientist, Plant Genetic Resources | ICRISAT, Hyderabad, India | M.Vetriventhan@cgiar.org | Visit Page |
+| Mr. Rajaguru Bohar | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) | CIMMYT | wishmeguru@gmail.com | Visit Page |
+
+
+## References
+
 - **Dr. Vania de Azevedo**   
   Former Head, Plant Genetic Resources,
   ICRISAT, Hyderabad, India.
-  azevedovcr@gmail.com
+  Email: mailto:azevedovcr@gmail.com
   LinkedIn: [Click Here](https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/)
 
 - **Dr. Mani Vetriventhan**   
