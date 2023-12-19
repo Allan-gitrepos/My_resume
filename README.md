@@ -123,12 +123,15 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## References
 
-|     |     |     |     |
-|:---:|:---:|:---:|:---:|
-| !John Doe | **John Doe**<br>Manager<br>ABC Corp | !Jane Smith | **Jane Smith**<br>Team Lead<br>XYZ Inc |
-| Contact | johndoe@abc.com | Contact | jane@xyz.com |
+- **John Doe**  
+  !John Doe  
+  Manager at ABC Corp  
+  johndoe@abc.com
 
-
+- **Jane Smith**  
+  !Jane Smith  
+  Team Lead at XYZ Inc  
+  jane@xyz.com
 
 
 ## 📞 Contact
