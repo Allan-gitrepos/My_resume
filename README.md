@@ -120,8 +120,9 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: <a href="https://doi.org/10.1007/s42729-023-01129-2" target="_blank">https://doi.org/10.1007/s42729-023-01129-2</a>)
 8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
+    
 
-## References
+## 📚 References
 
 |     |     |
 |:----|:----|
