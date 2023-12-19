@@ -122,10 +122,8 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
 
 ## References
-
-|     |     |
 |:----|:----|
-| **Name:** | Dr. Vania de Azevedo |
+| **Name:** | **Dr. Vania de Azevedo** |
 | **Position:** | Former Head, Plant Genetic Resources |
 | **Organization:** | ICRISAT, Hyderabad, India |
 | **E-mail:** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
@@ -133,7 +131,7 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 |     |     |
 |:----|:----|
-| **Name:** | Dr. Mani Vetriventhan |
+| **Name:** | **Dr. Mani Vetriventhan** |
 | **Position:** | Senior Scientist, Plant Genetic Resources |
 | **Organization:** | ICRISAT, Hyderabad, India |
 | **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
@@ -141,7 +139,7 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 |     |     |
 |:----|:----|
-| **Name:** | Mr. Rajaguru Bohar |
+| **Name:** | **Mr. Rajaguru Bohar** |
 | **Position:** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
 | **Organization:** | CIMMYT |
 | **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
