@@ -121,6 +121,15 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
 
+## References
+
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+| !John Doe | **John Doe**<br>Manager<br>ABC Corp | !Jane Smith | **Jane Smith**<br>Team Lead<br>XYZ Inc |
+| Contact | johndoe@abc.com | Contact | jane@xyz.com |
+
+
+
 
 ## 📞 Contact
 
