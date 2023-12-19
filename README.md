@@ -123,22 +123,23 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## References
 
-|     |     |
-|:---:|:---:|
-| **John Doe**<br>Manager<br>ABC Corp<br>johndoe@abc.com | **Jane Smith**<br>Team Lead<br>XYZ Inc<br>jane@xyz.com |
+- **Dr. Vania de Azevedo**   
+  Former Head, Plant Genetic Resources,
+  ICRISAT, Hyderabad, India.
+  azevedovcr@gmail.com
+  LinkedIn: [Click Here](https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/)
 
+- **Dr. Mani Vetriventhan**   
+  Senior Scientist, Plant Genetic Resources,
+  ICRISAT, Hyderabad, India.
+  M.Vetriventhan@cgiar.org
+  LinkedIn: [Click Here](https://www.linkedin.com/in/vetriventhan-mani-26468322/)
 
-## References
-
-- **John Doe**  
-  !John Doe  
-  Manager at ABC Corp  
-  johndoe@abc.com
-
-- **Jane Smith**  
-  !Jane Smith  
-  Team Lead at XYZ Inc  
-  jane@xyz.com
+  - **Mr. Rajaguru Bohar**   
+  Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management), 
+  CIMMYT,
+  wishmeguru@gmail.com
+  LinkedIn: [Click Here](https://www.linkedin.com/in/rajaguru-bohar-5038762a/)
 
 
 ## 📞 Contact
