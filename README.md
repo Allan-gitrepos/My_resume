@@ -122,6 +122,7 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
 
 ## References
+
 |     |     |
 |:----|:----|
 | **Name:** | **Dr. Vania de Azevedo** |
