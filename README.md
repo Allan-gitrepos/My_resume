@@ -123,33 +123,29 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## References
 
-| **Name** | **Position** | **Organization** | **E-mail** | **LinkedIn** |
-|:---:|:---:|:---:|:---:|:---:|
-| Dr. Vania de Azevedo | Former Head, Plant Genetic Resources | ICRISAT, Hyderabad, India | azevedovcr@gmail.com | Visit Page |
-| Dr. Mani Vetriventhan | Senior Scientist, Plant Genetic Resources | ICRISAT, Hyderabad, India | M.Vetriventhan@cgiar.org | Visit Page |
-| Mr. Rajaguru Bohar | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) | CIMMYT | wishmeguru@gmail.com | Visit Page |
+|     |     |
+|:---:|:---:|
+| **Name** | Dr. Vania de Azevedo |
+| **Position** | Former Head, Plant Genetic Resources |
+| **Organization** | ICRISAT, Hyderabad, India |
+| **E-mail** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
 
+|     |     |
+|:---:|:---:|
+| **Name** | Dr. Mani Vetriventhan |
+| **Position** | Senior Scientist, Plant Genetic Resources |
+| **Organization** | ICRISAT, Hyderabad, India |
+| **E-mail** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
 
-## References
-
-- **Dr. Vania de Azevedo**   
-  Former Head, Plant Genetic Resources,
-  ICRISAT, Hyderabad, India.
-  Email: mailto:azevedovcr@gmail.com
-  LinkedIn: [Click Here](https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/)
-
-- **Dr. Mani Vetriventhan**   
-  Senior Scientist, Plant Genetic Resources,
-  ICRISAT, Hyderabad, India.
-  M.Vetriventhan@cgiar.org
-  LinkedIn: [Click Here](https://www.linkedin.com/in/vetriventhan-mani-26468322/)
-
-  - **Mr. Rajaguru Bohar**   
-  Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management), 
-  CIMMYT,
-  wishmeguru@gmail.com
-  LinkedIn: [Click Here](https://www.linkedin.com/in/rajaguru-bohar-5038762a/)
-
+|     |     |
+|:---:|:---:|
+| **Name** | Mr. Rajaguru Bohar |
+| **Position** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
+| **Organization** | CIMMYT |
+| **E-mail** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
 
 ## 📞 Contact
 
