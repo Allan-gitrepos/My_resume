@@ -63,13 +63,13 @@ Developed pbgeno, an R package to streamline data analysis workflows for plant b
 
 **PBMLT**<a href="https://allanbiotools1.shinyapps.io/PBMLT/" target="_blank">(Visit Page)</a> is a comprehensive and user-friendly platform that provides plant breeders with an all-in-one solution for analyzing multi-environment trial data through:
 
--Powerful Analysis of Variance (ANOVA) to explore significance of variation across locations and treatments.
--Additive Main Effects and Multiplicative Interaction (AMMI) analysis for in-depth genotype-environment interaction studies.
--Calculation of essential AMMI-based stability indices like ASV, ASTAB, ASI, MASI, SIPC, ZA for identifying adaptable lines.
--Evaluation of overall productivity using metrics such as mean AVAMGE for high-yielding genotype selection.
--Scaled stability measures like SSIASTAB and ASI_SSI for ranking lines based on trait stability.
--Interactive visualizations including Biplots, GGE plots, WASS plots for straightforward interpretation of complex data.
--Centralized platform integrating meta-analysis, statistical analytics, and genotype-environment interaction analysis.
+- Powerful Analysis of Variance (ANOVA) to explore significance of variation across locations and treatments.
+- Additive Main Effects and Multiplicative Interaction (AMMI) analysis for in-depth genotype-environment interaction studies.
+- Calculation of essential AMMI-based stability indices like ASV, ASTAB, ASI, MASI, SIPC, ZA for identifying adaptable lines.
+- Evaluation of overall productivity using metrics such as mean AVAMGE for high-yielding genotype selection.
+- Scaled stability measures like SSIASTAB and ASI_SSI for ranking lines based on trait stability.
+- Interactive visualizations including Biplots, GGE plots, WASS plots for straightforward interpretation of complex data.
+- Centralized platform integrating meta-analysis, statistical analytics, and genotype-environment interaction analysis.
 
 ### ✅ PBlinkagemap
 
